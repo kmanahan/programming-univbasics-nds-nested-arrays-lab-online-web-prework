@@ -31,8 +31,8 @@ end
 
 def matrix_lookup(matrix, row, column)
   # Return the matrix's content at row and column
-  puts matrix[row],[column]
-   return matrix[row],[column]
+  puts matrix
+   return matrix
 end
 
 def matrix_update(matrix, row, column, new_value)
