@@ -32,7 +32,7 @@ end
 def matrix_lookup(matrix, row, column)
   # Return the matrix's content at row and column
   puts matrix((0),(0))
-   return matrix
+   return matrix((0),(0))
 end
 
 def matrix_update(matrix, row, column, new_value)
